@@ -22,7 +22,7 @@ Because TempoLock is built as a zero-build, single-file web application, no pack
 
 Clone the repository:
 
-git clone https://github.com/<asayusingh243-maker>/tempoLock-Dual-Mode-Animated-Countdown-Lock-Screen.git 
+git clone https://github.com/asayusingh243-maker/TempoLock-Dual-Mode-Animated-Countdown-Lock-Screen.git 
 cd TempoLock-Dual-Mode-Animated-Countdown-Lock-Screen
 
 
